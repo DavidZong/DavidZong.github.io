@@ -5,3 +5,7 @@ date: 2018-04-04
 ---
 
 I am making a website and this is the blog portion of it.
+
+# Header Test
+## This is also a header but smaller
+### Even smaller header
