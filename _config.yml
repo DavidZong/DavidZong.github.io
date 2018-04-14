@@ -1,4 +1,6 @@
 name: David M. Zong
+twitter_username: davidzong1
+github_username: DavidZong
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 plugins_dir:

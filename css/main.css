@@ -147,6 +147,16 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
+.github-icon-svg,
+.twitter-icon-svg {
+  display: inline-block;
+  width: 2em;
+  height: 2em;
+  position: relative;
+  /*top: 3px;*/
+}
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
