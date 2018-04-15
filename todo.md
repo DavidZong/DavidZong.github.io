@@ -4,4 +4,4 @@
 * Get content into About
 * Get content into home
 * Upload pdf of CV and link it in CV
-* Make a footer with those snazzy icons for github, twitter, and linkedin
+* Make a footer with a snazzy icon linkedin
